@@ -35,7 +35,8 @@ body {
 }
 
 #title {
-    transform: translateY(5vh);
+    text-align: center;
+    transform: translateY(12.5vh);
     font-size: 350%;
     border: none;
     font-weight: 800;
@@ -95,8 +96,7 @@ body {
 }
 
 .bghv-grey:hover {
-    background-color: rgb(255, 255, 255);
-    color: black;
+    letter-spacing: 1px;
     cursor: pointer;
 }
 
