@@ -1,5 +1,7 @@
 <script>
     import { onMount } from "svelte";
+	import { injectSpeedInsights } from '@vercel/speed-insights/sveltekit';
+	injectSpeedInsights();
 	import '../styles/layout.css'
 	import BGScreenSaver from '../lib/bg_screensaver.svelte'
 	let mode = 'focus'; // focus, short, long
