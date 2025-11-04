@@ -1,5 +1,5 @@
 # POMO-NOIR
-A pomodoro timer I made for myself (and everyone since it's open source) using SvelteKit and Tauri JS for the upcoming desktop version
+A black and white or noir themed pomodoro timer I made for myself (and everyone since it's open source) using SvelteKit and Tauri JS for the desktop version
 
-visit:[the website](https://pomo-zrl.vercel.app)
-desktop version coming soon
+[the website](https://pomo-zrl.vercel.app)
+[the app (only windows)](https://github.com/NvLL-Zen/pomo-noir/releases/tag/main)
